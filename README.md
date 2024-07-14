@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @Noor-e-sabab
 - 🌱 I’m currently learning algorithm
--  this is a code for sum of a array list
+- Here's a C program that calculates the sum of an array. The program first determines the size of the array, then inputs the elements of the array, and finally calculates and prints the sum.
+
+c
+
